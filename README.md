@@ -1,10 +1,10 @@
-## 👋 Hi, I'm Ankit Raj
+## Hi, I'm Ankit Raj
 
 Full-Stack Developer | Tech Enthusiast | Lifelong Learner
 
 ---
 
-### 🚀 About Me
+### ➡️ About Me
 
 - B.Tech in Computer Science, NIET Greater Noida  
 - Passionate about building impactful web applications  
@@ -14,7 +14,7 @@ Full-Stack Developer | Tech Enthusiast | Lifelong Learner
 
 ---
 
-### 💡 What Drives Me
+### ➡️ What Drives Me
 
 I enjoy transforming ideas into real-world solutions, learning new technologies, and collaborating with others to create meaningful digital experiences. I believe in continuous growth and love tackling new challenges—whether it’s in code or in life.
 
