@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ankit Raj
 
-Aspiring Full-Stack Developer | Tech Enthusiast | Lifelong Learner
+Full-Stack Developer | Tech Enthusiast | Lifelong Learner
 
 ---
 
