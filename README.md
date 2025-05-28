@@ -20,14 +20,6 @@ I enjoy transforming ideas into real-world solutions, learning new technologies,
 
 ---
 
-### 📫 Connect With Me
-
-- Email: araj7491@gmail.com  
-- [Portfolio](https://portfolio-lac-nu-19.vercel.app/)  
-- [LinkedIn](https://www.linkedin.com/in/ankit-raj-3594b6237)
-
----
-
-> Let’s build something great together! 🚀
+> Let’s build something great together!
 
 ---
