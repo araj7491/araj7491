@@ -6,6 +6,7 @@ Full-Stack Developer | Lifelong Learner
 
 ### ➡️ About Me
 
+- Software Developer at Ralakde Automation
 - B.Tech in Computer Science, NIET Greater Noida  
 - Passionate about building impactful web applications  
 - Experienced with the MERN stack, Python, and Java  
