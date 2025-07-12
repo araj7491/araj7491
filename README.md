@@ -9,7 +9,7 @@ Full-Stack Developer | Lifelong Learner
 - Software Developer at Ralakde Automation
 - B.Tech in Computer Science, NIET Greater Noida  
 - Passionate about building impactful web applications  
-- Experienced with the MERN stack, Python, and Java  
+- Experienced with the MERN stack, Django and Django REST Framework
 - Certified Zero Trust Cyber Associate (Zscaler)  
 - Former Chegg Subject Matter Expert (Physics)
 
