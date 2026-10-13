@@ -17,7 +17,7 @@ Full-Stack Developer | Lifelong Learner
 
 ### ➡️ What Drives Me
 
-I enjoy transforming ideas into real-world solutions, learning new technologies, and collaborating with others to create meaningful digital experiences. I believe in continuous growth and love tackling new challenges—whether it’s in code or in life.
+I enjoy transforming ideas into real-world solutions, learning new technologies, and collaborating with others to create meaningful digital experiences. I believe in continuous growth and love tackling new challenges, whether it’s in code or in life.
 
 ---
 
