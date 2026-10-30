@@ -9,7 +9,6 @@ Full Stack Software Engineer | Python · Django · React · TypeScript
 - Software Engineer at Ralakde Automation UK, building a multi-tenant B2B SaaS ERP platform
 - Engineered a workflow automation engine and a no-code visual workflow builder
 - Stack: Python, Django REST Framework, Celery, PostgreSQL, React, TypeScript, Next.js
-- 305 merged pull requests and 1,000+ commits since July 2025
 - B.Tech in Computer Science, NIET Greater Noida
 - Certified Zero Trust Cyber Associate (Zscaler)
 
