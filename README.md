@@ -1,26 +1,26 @@
 ## Hi, I'm Ankit Raj
 
-Full-Stack Developer | Lifelong Learner
+Full Stack Software Engineer | Python · Django · React · TypeScript
 
 ---
 
 ### ➡️ About Me
 
-- Software Developer at Ralakde Automation
-- B.Tech in Computer Science, NIET Greater Noida  
-- Passionate about building impactful web applications  
-- Experienced with the MERN stack and Django REST Framework
-- Certified Zero Trust Cyber Associate (Zscaler)  
-- Former Chegg Subject Matter Expert (Physics)
+- Software Engineer at Ralakde Automation UK, building a multi-tenant B2B SaaS ERP platform
+- Engineered a workflow automation engine and a no-code visual workflow builder
+- Stack: Python, Django REST Framework, Celery, PostgreSQL, React, TypeScript, Next.js
+- 305 merged pull requests and 1,000+ commits since July 2025
+- B.Tech in Computer Science, NIET Greater Noida
+- Certified Zero Trust Cyber Associate (Zscaler)
 
 ---
 
 ### ➡️ What Drives Me
 
-I enjoy transforming ideas into real-world solutions, learning new technologies, and collaborating with others to create meaningful digital experiences. I believe in continuous growth and love tackling new challenges, whether it’s in code or in life.
+I turn complex business processes into reliable, intuitive software, from API design to the final interface. I care about clean architecture, automated testing and products that save people time.
 
 ---
 
-> Let’s build something great together!
+> Let's connect: [LinkedIn](https://www.linkedin.com/in/araj7491/) · [Portfolio](https://portfolio-lac-nu-19.vercel.app/)
 
 ---
