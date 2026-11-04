@@ -1,13 +1,12 @@
 ## Hi, I'm Ankit Raj
 
-Full Stack Software Engineer | Python · Django · React · TypeScript
+Full Stack Software Engineer
 
 ---
 
 ### ➡️ About Me
 
-- Software Engineer at Ralakde Automation UK, building a multi-tenant B2B SaaS ERP platform
-- Engineered a workflow automation engine and a no-code visual workflow builder
+- Software Engineer at Ralakde Automation UK, building a multi-tenant B2B SaaS platform
 - Stack: Python, Django REST Framework, Celery, PostgreSQL, React, TypeScript, Next.js
 - B.Tech in Computer Science, NIET Greater Noida
 - Certified Zero Trust Cyber Associate (Zscaler)
